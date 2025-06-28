@@ -724,6 +724,6 @@ The implemented ARIMA trading strategy is based on the mean-reversion hypothesis
   - Contains timestamped PNG files and text reports
   - Automatically created on first plot
 - `README_DE.md`: German documentation
-- `README_EN.md`: English documentation
+- `README.md`: English documentation
 
 ---
