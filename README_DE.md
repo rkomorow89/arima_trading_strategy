@@ -713,6 +713,6 @@ Die implementierte ARIMA-Trading-Strategie basiert auf der Mean-Reversion-Hypoth
   - Enthält timestamped PNG-Dateien und Textberichte
   - Wird automatisch beim ersten Plot erstellt
 - `README_DE.md`: Deutsche Dokumentation
-- `README_EN.md`: Englische Dokumentation
+- `README.md`: Englische Dokumentation
 
 
